@@ -1,4 +1,4 @@
-# workshop-git-github
+# PAQ Workshop - GIT e GitHub
 
 Material de apoio para o workshop de GIT e GitHub
 
